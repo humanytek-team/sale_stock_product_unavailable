@@ -4,7 +4,7 @@
 
 {
     'name': 'Disable confirmation of sales orders without stock',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Sale',
     'summary': """This module does not allow confirm sale orders that has
     products without availability in stock.""",
